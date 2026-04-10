@@ -42,17 +42,11 @@
 ### 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulBharti0106" height="160"/>
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RahulBharti0106&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=C084FC&fire=F59E0B&currStreakLabel=C084FC" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulBharti0106&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub stats" height="160"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulBharti0106&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=C084FC&text_color=e2e8f0" height="140"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RahulBharti0106&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+<div align="center" style="margin-top: 16px;">
+  <img src="https://komarev.com/ghpvc/?username=RahulBharti0106&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
 
 ---
@@ -65,10 +59,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=C084FC)](https://linkedin.com/in/rahul-bharti0106)
 [![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=F59E0B)](mailto:rahul433108k@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=RahulBharti0106&icon=2&color=7&label=profile+views&pretty=true" />
 </div>
