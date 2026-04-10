@@ -12,7 +12,10 @@
 </div>
 
 <br/>
-
+### 🏆 GitHub stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulBharti0106&show_icons=true&theme=midnight-purple&hide_border=true" />
+</div>
 ---
 
 ### 🪐 About me
@@ -27,7 +30,7 @@
 
 ---
 
-### 🛠️ tech i work with
+### 🛠️ Tech i work with
 
 <div align="left">
 
@@ -39,7 +42,7 @@
 
 ---
 
-### 📊 github stats
+### 📊 Github stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RahulBharti0106"height="160"/>
@@ -53,7 +56,7 @@
 
 ---
 
-### 🏆 top contributions
+### 🏆 Top contributions
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=RahulBharti0106&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
