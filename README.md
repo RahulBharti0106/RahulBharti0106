@@ -29,7 +29,7 @@
 
 ### 🛠️ tech i work with
 
-<div align="center">
+<div align="left">
 
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=C084FC)
 ![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=F59E0B)
@@ -42,7 +42,8 @@
 ### 📊 github stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulBharti0106&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=C084FC&icon_color=F59E0B&text_color=e2e8f0" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulBharti0106"height="160"/>
+  
   <img src="https://nirzak-streak-stats.vercel.app/?user=RahulBharti0106&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=C084FC&fire=F59E0B&currStreakLabel=C084FC" height="160"/>
 </div>
 
@@ -54,15 +55,15 @@
 
 ### 🏆 top contributions
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=RahulBharti0106&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true"/>
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=RahulBharti0106&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 </div>
 
 ---
 
-### 🌐 find me
+### 🌐 Find me
 
-<div align="center">
+<div align="left">
 
 [![Instagram](https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge&logo=instagram&logoColor=F59E0B)](https://instagram.com/quasarsama)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=C084FC)](https://linkedin.com/in/rahul-bharti0106)
