@@ -41,11 +41,7 @@
 
 ### 📊 GitHub stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulBharti0106&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub stats" height="160"/>
-</div>
-
-<div align="center" style="margin-top: 16px;">
+<div align="left" style="margin-top: 16px;">
   <img src="https://komarev.com/ghpvc/?username=RahulBharti0106&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
 
@@ -55,8 +51,9 @@
 
 <div align="left">
 
-[![Instagram](https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge&logo=instagram&logoColor=F59E0B)](https://instagram.com/quasarsama)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=C084FC)](https://linkedin.com/in/rahul-bharti0106)
-[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=F59E0B)](mailto:rahul433108k@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/quasarsama)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-bharti0106)
+
+<!-- [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul433108k@gmail.com) -->
 
 </div>
