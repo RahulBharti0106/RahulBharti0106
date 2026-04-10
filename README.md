@@ -12,10 +12,7 @@
 </div>
 
 <br/>
-### 🏆 GitHub stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulBharti0106&show_icons=true&theme=midnight-purple&hide_border=true" />
-</div>
+
 ---
 
 ### 🪐 About me
@@ -42,10 +39,10 @@
 
 ---
 
-### 📊 Github stats
+### 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulBharti0106"height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulBharti0106" height="160"/>
   
   <img src="https://nirzak-streak-stats.vercel.app/?user=RahulBharti0106&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=C084FC&fire=F59E0B&currStreakLabel=C084FC" height="160"/>
 </div>
@@ -54,11 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulBharti0106&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=C084FC&text_color=e2e8f0" height="140"/>
 </div>
 
----
-
-### 🏆 Top contributions
-
-<div align="left">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=RahulBharti0106&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 </div>
 
