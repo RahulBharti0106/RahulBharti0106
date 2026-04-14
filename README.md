@@ -1,13 +1,9 @@
-<div align="center" style="display: flex; align-items: center; justify-content: space-between;">
+<div align="right">
   <img 
     src="./assets/animation/capybara.gif" 
     width="110" 
     alt="waving capybara"
     title="hewwo :)"
-  />
-  <img 
-    src="./assets/animation/cat_dancing.gif" 
-    width="150" 
   />
 </div>
 
