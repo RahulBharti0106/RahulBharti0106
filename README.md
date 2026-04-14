@@ -1,9 +1,15 @@
-<div align="right">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 200px;">
   <img 
     src="./assets/animation/capybara.gif" 
     width="110" 
     alt="waving capybara"
     title="hewwo :)"
+    style="display: flex; align-items: left;"
+  />
+  <img 
+    src="./assets/animation/cat_dancing.gif" 
+    width="150" 
+    style="display: flex; align-items: right;"
   />
 </div>
 
