@@ -1,4 +1,4 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 200px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 500px;">
   <img 
     src="./assets/animation/capybara.gif" 
     width="110" 
